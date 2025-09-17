@@ -28,11 +28,11 @@ Ghost-YOLV12 is proposed, which is an enhanced version of the  YOLOv12 deep lear
 **Turbo (default)**:
 | Model (det)                                                                              | size<br><sup>(pixels) | mAP<sup>val<br>50-95 | Speed (ms) <br><sup>T4 TensorRT10<br> | params<br><sup>(M) | FLOPs<br><sup>(G) |
 | :----------------------------------------------------------------------------------- | :-------------------: | :-------------------:| :------------------------------:| :-----------------:| :---------------:|
-| [YOLO12n](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12n.pt) | 640                   | 40.4                 | 1.60                            | 2.5                | 6.0               |
-| [YOLO12s](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12s.pt) | 640                   | 47.6                 | 2.42                            | 9.1                | 19.4              |
-| [YOLO12m](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12m.pt) | 640                   | 52.5                 | 4.27                            | 19.6               | 59.8              |
-| [YOLO12l](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12l.pt) | 640                   | 53.8                 | 5.83                            | 26.5               | 82.4              |
-| [YOLO12x](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12x.pt) | 640                   | 55.4                 | 10.38                           | 59.3               | 184.6             |
+| [Ghost-CBAM-YOLO12m](https://drive.google.com/file/d/1WuFZkm-snOwEcApp1ZOIV0TWQU58Px8l/view?usp=sharing) | 640                   | 97.8.4                 | 1.60                            | 2.5                | 6.0               |
+| [YOLO12m](https://drive.google.com/file/d/1z2kUELXWfPcoGO-2Vkl1tKnmOv5tYnU3/view?usp=sharing) | 640                   | 97.1                 | 2.42                            | 9.1                | 19.4              |
+| [Ghost-YOLO12m](https://drive.google.com/file/d/1O1BdTvHSciFhN1y24O5qCV63e77m_c5U/view?usp=sharing) | 640                   | 95.5                 | 4.27                            | 19.6               | 59.8              |
+| [Ghost(Head& Backbone)-YOLOv12](https://drive.google.com/file/d/1lYU8WrUbv8MF-HQAxibewWAdyU2OpS8O/view?usp=sharing) | 640                   | 91.8                 | 5.83                            | 26.5               | 82.4              |
+
 
 
 
