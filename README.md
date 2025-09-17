@@ -1,12 +1,12 @@
 
 
 <div align="center">
-<h1>YOLOv12</h1>
+<h1>Ghost-YOLOv12</h1>
 <h3>YOLOv12: Attention-Centric Real-Time Object Detectors</h3>
 
-[Yunjie Tian](https://sunsmarterjie.github.io/)<sup>1</sup>, [Qixiang Ye](https://people.ucas.ac.cn/~qxye?language=en)<sup>2</sup>, [David Doermann](https://cse.buffalo.edu/~doermann/)<sup>1</sup>
+[Ali Elhenidy]([https://sunsmarterjie.github.io/](https://github.com/Aliweka2020))<sup>1</sup>, [Ahmed Sameh](https://people.ucas.ac.cn/~qxye?language=en)<sup>2</sup>, [David Doermann](https://cse.buffalo.edu/~doermann/)<sup>1</sup>
 
-<sup>1</sup>  University at Buffalo, SUNY, <sup>2</sup> University of Chinese Academy of Sciences.
+<sup>1</sup>  Mansoura University , Egypt <sup>2</sup> Mansoura University , Egypt.
 
 
 <p align="center">
