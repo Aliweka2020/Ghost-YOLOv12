@@ -45,19 +45,7 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-## Validation
-[`yolov12n`](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12n.pt)
-[`yolov12s`](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12s.pt)
-[`yolov12m`](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12m.pt)
-[`yolov12l`](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12l.pt)
-[`yolov12x`](https://github.com/sunsmarterjie/yolov12/releases/download/turbo/yolov12x.pt)
 
-```python
-from ultralytics import YOLO
-
-model = YOLO('yolov12{n/s/m/l/x}.pt')
-model.val(data='fish.yaml', save_json=True)
-```
 
 ## Training 
 ```python
@@ -86,26 +74,6 @@ results = model("path/to/image.jpg")
 results[0].show()
 
 ```
-
-## Prediction
-```python
-from ultralytics import YOLO
-
-model = YOLO('yolov12{n/s/m/l/x}.pt')
-model.predict()
-```
-
-## Export
-```python
-from ultralytics import YOLO
-
-model = YOLO('yolov12{n/s/m/l/x}.pt')
-model.export(format="engine", half=True)  # or format="onnx"
-```
-
-
-
-
 
 ## Acknowledgement
 
