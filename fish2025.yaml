@@ -1,0 +1,6 @@
+train: 'C:\Users\Mohamed\yolov12-main\datasets\Fish\train'
+val: 'C:\Users\Mohamed\yolov12-main\datasets\Fish\valid'
+test: 'C:\Users\Mohamed\yolov12-main\datasets\Fish\test'
+
+nc: 1
+names: ['fish']  
