@@ -4,9 +4,9 @@
 <h1>Ghost-YOLOv12</h1>
 <h3>YOLOv12: Attention-Centric Real-Time Object Detectors</h3>
 
-[Ali Elhenidy]([https://sunsmarterjie.github.io/](https://github.com/Aliweka2020))<sup>1</sup>, [Ahmed Sameh](https://people.ucas.ac.cn/~qxye?language=en)<sup>2</sup>, [David Doermann](https://cse.buffalo.edu/~doermann/)<sup>1</sup>
+[Ali Elhenidy](https://github.com/Aliweka2020)<sup>1</sup>, [Ahmed Sameh](https://people.ucas.ac.cn/~qxye?language=en)<sup>1</sup>
 
-<sup>1</sup>  Mansoura University , Egypt <sup>2</sup> Mansoura University , Egypt.
+<sup>1</sup>  Mansoura University , Egypt 
 
 
 <p align="center">
