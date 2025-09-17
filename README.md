@@ -22,7 +22,6 @@
 Ghost-YOLV12 is proposed, which is an enhanced version of the  YOLOv12 deep learning model. Trained on the DeepFish dataset, the proposed model achieved a mean average precision (mAP50) of 97.8 and demonstrated robust performance under occlusion, turbidity, and low-light conditions. All evaluations were conducted in simulation environments, with hydrodynamic testing performed through CFD and fish detection validated through annotated datasets. While no physical prototype has been deployed yet, the design is fully scalable and structured for real-world fabrication. 
 </details>
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/3Zs-LLSfgzw)
 
 
 ## Main Results
