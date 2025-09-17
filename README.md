@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>Ghost-YOLOv12</h1>
-<h3>YOLOv12: Attention-Centric Real-Time Object Detectors</h3>
+<h3>Bio-Inspired Underwater Robotic Vehicle for Marine Exploration and AI-Powered Fish Detection</h3>
 
 [Ali Elhenidy](https://github.com/Aliweka2020)<sup>1</sup>, [Ahmed Sameh](https://people.ucas.ac.cn/~qxye?language=en)<sup>1</sup>
 
